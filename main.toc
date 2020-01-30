@@ -1,0 +1,177 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Preface}{vi}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Typographical Conventions}{vii}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.body1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Variants}{2}{subsection.body1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}System}{3}{section.body2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Transaction Plugins}{3}{subsection.body2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}\leavevmode {\color {nemleading}\textbf {Symbol}}{ }Extensions}{4}{subsection.body2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Server}{5}{subsection.body2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1}Cache Database}{6}{subsubsection.body2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Broker}{7}{subsection.body2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Recovery}{8}{subsection.body2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Common Topologies}{8}{subsection.body2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Cryptography}{9}{section.body3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Public/Private Key Pair}{9}{subsection.body3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Signing and Verification}{10}{subsection.body3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Batch Verification}{10}{subsection.body3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Trees}{12}{section.body4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Merkle Tree}{12}{subsection.body4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Patricia Tree}{13}{subsection.body4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Merkle Patricia Tree}{15}{subsection.body4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Merkle Patricia Tree Proofs}{16}{subsection.body4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Accounts and Addresses}{18}{section.body5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Addresses}{18}{subsection.body5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Address Derivation}{18}{subsection.body5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Address Aliases}{21}{subsection.body5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Intentional Address Collision}{21}{subsection.body5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Transactions}{22}{section.body6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Basic Transaction}{22}{subsection.body6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Aggregate Transaction}{23}{subsection.body6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.1}Embedded Transaction}{25}{subsubsection.body6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.2}Cosignature}{26}{subsubsection.body6.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.3}Extended Layout}{27}{subsubsection.body6.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Transaction Hashes}{28}{subsection.body6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Blocks}{29}{section.body7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Block Fields}{29}{subsection.body7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Receipts}{31}{subsection.body7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.1}Receipt Source}{32}{subsubsection.body7.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.2}Transaction Statement}{32}{subsubsection.body7.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.3}Resolution Statements}{33}{subsubsection.body7.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.4}Receipts Hash}{34}{subsubsection.body7.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}State Hash}{34}{subsection.body7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}Extended Layout}{35}{subsection.body7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Blockchain}{36}{section.body8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Block Difficulty}{36}{subsection.body8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}Block Score}{37}{subsection.body8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3}Block Generation}{37}{subsection.body8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4}Automatic Delegated Harvester Detection}{41}{subsection.body8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5}Blockchain Synchronization}{42}{subsection.body8.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6}Blockchain Processing}{43}{subsection.body8.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Disruptor}{45}{section.body9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Consumers}{46}{subsection.body9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.1}Common Consumers}{47}{subsubsection.body9.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.2}Additional Block Consumers}{48}{subsubsection.body9.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.3}Additional Transaction Consumers}{49}{subsubsection.body9.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Unconfirmed Transactions}{51}{section.body10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1}Unconfirmed Transactions Cache}{51}{subsection.body10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2}Spam Throttle}{52}{subsection.body10.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}Partial Transactions}{54}{section.body11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1}Partial Transaction Processing}{55}{subsection.body11.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12}Network}{58}{section.body12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1}Beacon Nodes}{58}{subsection.body12.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2}Connection Handshake}{59}{subsection.body12.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3}Packets}{59}{subsection.body12.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4}Connection Types}{60}{subsection.body12.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.5}Peer Provenance}{61}{subsection.body12.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6}Node Discovery}{62}{subsection.body12.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13}Reputation}{63}{section.body13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1}Connection Management}{63}{subsection.body13.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2}Weight Based Node Selection}{63}{subsection.body13.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3}Node Banning}{65}{subsection.body13.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14}Consensus}{68}{section.body14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1}Weighting Algorithm}{69}{subsection.body14.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2}Sybil Attack}{71}{subsection.body14.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3}Nothing at Stake Attack}{73}{subsection.body14.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4}Fee Attack}{74}{subsection.body14.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15}Time Synchronization}{79}{section.body15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.1}Gathering Samples}{79}{subsection.body15.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2}Applying Filters to Remove Bad Data}{80}{subsection.body15.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3}Calculation of the Effective Offset}{81}{subsection.body15.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4}Coupling and Threshold}{82}{subsection.body15.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16}Messaging}{84}{section.body16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1}Message Channels and Topics}{84}{subsection.body16.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2}Connection and Subscriptions}{85}{subsection.body16.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.3}Block Messages}{85}{subsection.body16.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.4}Transaction Messages}{86}{subsection.body16.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {16.4.1}Cosignature Message}{89}{subsubsection.body16.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{91}{figure.caption.67}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Index}{92}{section*.68}%
