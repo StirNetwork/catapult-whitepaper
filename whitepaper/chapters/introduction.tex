@@ -40,14 +40,3 @@ Basing the core block and transaction pipelines on the disruptor pattern - and u
 NIS1 was a worthy entry into the blockchain landscape and \codenamespace is an even worthier evolution of it.
 This is not the end but a new beginning.
 There is more work to be done.
-
-\subsection{Variants}
-
-\codenamespace supports compile-time substitution of its primary hash algorithm, which produces a 32-byte value from input data.
-For conciseness, the rest of this document refers to this hash by its default setting (SHA3).
-Currently, the following hash algorithms are supported:
-
-\begin{enumerate}
-	\item{SHA3 (default): This is the default mode and recommended for new chains.}
-	\item{Keccak: This mode is provided for compatibility with legacy chains, like NIS1, in order to preserve private-key:public-key:address mapping.}
-\end{enumerate}
